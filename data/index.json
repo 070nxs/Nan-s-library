@@ -91,6 +91,24 @@
       "totalChapters": 25
     },
     {
+      "id": "little-liar-a-dark-taboo-romance-the-web-of-silence-duet-book-2",
+      "title": "Little Liar: A Dark Taboo Romance (The Web of Silence Duet Book 2)",
+      "author": "Leigh Rivers",
+      "description": "",
+      "totalWords": 94082,
+      "totalPages": 95,
+      "totalChapters": 19
+    },
+    {
+      "id": "little-stranger-a-dark-taboo-romance",
+      "title": "Little Stranger: A Dark Taboo Romance",
+      "author": "Leigh Rivers",
+      "description": "",
+      "totalWords": 52591,
+      "totalPages": 53,
+      "totalChapters": 11
+    },
+    {
       "id": "love-poems-new-directions-paperbook",
       "title": "Love Poems (New Directions Paperbook)",
       "author": "Neruda, Pablo [Neruda, Pablo]",
@@ -334,5 +352,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-04-20T18:35:08.203Z"
+  "updatedAt": "2026-04-22T00:09:04.270Z"
 }
