@@ -1,15 +1,6 @@
 {
   "books": [
     {
-      "id": "attached-are-you-anxious-avoidant-or-secure-how-the-science-of-adult-attachment-can-help-you-find-and-keep-love",
-      "title": "Attached: Are you Anxious, Avoidant or Secure? How the science of adult attachment can help you find – and keep – love",
-      "author": "Levine, Amir",
-      "description": "",
-      "totalWords": 67370,
-      "totalPages": 68,
-      "totalChapters": 24
-    },
-    {
       "id": "does-god-play-dice-the-new-mathematics-of-chaos",
       "title": "Does God Play Dice?: The New Mathematics of Chaos",
       "author": "Ian Stewart",
@@ -352,5 +343,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-04-22T00:09:04.270Z"
+  "updatedAt": "2026-05-05T23:15:36.310Z"
 }
