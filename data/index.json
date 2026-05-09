@@ -253,6 +253,15 @@
       "totalChapters": 12
     },
     {
+      "id": "the-song-of-achilles-a-novel",
+      "title": "The Song of Achilles: A Novel",
+      "author": "Miller, Madeline",
+      "description": "",
+      "totalWords": 101606,
+      "totalPages": 102,
+      "totalChapters": 21
+    },
+    {
       "id": "the-summer-queen",
       "title": "The Summer Queen",
       "author": "Joan D. Vinge",
@@ -343,5 +352,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-05T23:15:36.310Z"
+  "updatedAt": "2026-05-09T19:42:37.072Z"
 }
