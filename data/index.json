@@ -1,6 +1,33 @@
 {
   "books": [
     {
+      "id": "alone-with-you-in-the-ether",
+      "title": "Alone with You in the Ether",
+      "author": "Olivie Blake",
+      "description": "From the New York Times bestselling author of The Atlas Six comes an intimate, contemporary study of time, space, and the nature of love. Alone With You In The Ether explores what it means to be unwell, and how to face the fractures of yourself and still love as if you're not broken. Chicago, sometime &#8212; Two people meet in the armory of the Art Institute by chance. Prior to their encounter, he is a doctoral student who manages his destructive thoughts with compulsive calculations about time",
+      "totalWords": 89252,
+      "totalPages": 90,
+      "totalChapters": 17
+    },
+    {
+      "id": "animal-farm-george-orwell",
+      "title": "Animal Farm - George Orwell",
+      "author": "Unknown",
+      "description": "",
+      "totalWords": 30238,
+      "totalPages": 31,
+      "totalChapters": 7
+    },
+    {
+      "id": "credence",
+      "title": "Credence",
+      "author": "Douglas, Penelope",
+      "description": "",
+      "totalWords": 165894,
+      "totalPages": 166,
+      "totalChapters": 34
+    },
+    {
       "id": "dune",
       "title": "Dune",
       "author": "Frank Herbert",
@@ -10,24 +37,6 @@
       "totalChapters": 58
     },
     {
-      "id": "godel-escher-bach-an-eternal-golden-braid",
-      "title": "Godel, Escher, Bach-An Eternal Golden Braid",
-      "author": "Douglas R. Hofstadter",
-      "description": "",
-      "totalWords": 324196,
-      "totalPages": 325,
-      "totalChapters": 65
-    },
-    {
-      "id": "his-dark-materials-the-complete-trilogy",
-      "title": "His Dark Materials: The Complete Trilogy",
-      "author": "Philip Pullman",
-      "description": "",
-      "totalWords": 380054,
-      "totalPages": 381,
-      "totalChapters": 90
-    },
-    {
       "id": "house-of-leaves",
       "title": "House of Leaves",
       "author": "Mark Z. Danielewski",
@@ -35,33 +44,6 @@
       "totalWords": 195141,
       "totalPages": 196,
       "totalChapters": 40
-    },
-    {
-      "id": "learning-to-love-the-spaces-in-between",
-      "title": "Learning to Love the Spaces in Between",
-      "author": "Claire Gillman",
-      "description": "The word liminal comes from the Latin word 'limen', meaning threshold. A liminal space is the 'crossing over' space, the time between 'what was' and the 'what is to come', and a place of transition and possibility. Each of us experiences liminality in our lives &#8211; learning how to navigate and embrace its power can enhance our wellbeing and our understanding of the world. Being in liminal space can be unnerving, yet it is often where insight, creativity and inspiration are found. Liminality ",
-      "totalWords": 58806,
-      "totalPages": 59,
-      "totalChapters": 16
-    },
-    {
-      "id": "letters-to-a-young-poet",
-      "title": "Letters to a Young Poet",
-      "author": "Rainer Maria Rilke",
-      "description": "",
-      "totalWords": 22764,
-      "totalPages": 23,
-      "totalChapters": 5
-    },
-    {
-      "id": "life-3-0-being-human-in-the-age-of-artificial-intelligence",
-      "title": "Life 3_0_ Being Human in the Age of Artificial Intelligence",
-      "author": "Tegmark, Max  & chenjin5.com",
-      "description": "",
-      "totalWords": 119986,
-      "totalPages": 120,
-      "totalChapters": 24
     },
     {
       "id": "little-liar-a-dark-taboo-romance-the-web-of-silence-duet-book-2",
@@ -82,24 +64,6 @@
       "totalChapters": 11
     },
     {
-      "id": "love-poems-new-directions-paperbook",
-      "title": "Love Poems (New Directions Paperbook)",
-      "author": "Neruda, Pablo [Neruda, Pablo]",
-      "description": "",
-      "totalWords": 9093,
-      "totalPages": 10,
-      "totalChapters": 3
-    },
-    {
-      "id": "discworld-04-mort",
-      "title": "Discworld 04 - Mort",
-      "author": "Pratchett, Terry",
-      "description": "",
-      "totalWords": 73092,
-      "totalPages": 74,
-      "totalChapters": 8
-    },
-    {
       "id": "project-hail-mary",
       "title": "Project Hail Mary",
       "author": "Andy Weir",
@@ -109,40 +73,31 @@
       "totalChapters": 30
     },
     {
-      "id": "slaughterhouse-five-publisher-dell",
-      "title": "Slaughterhouse-Five Publisher: Dell",
-      "author": "Kurt Vonnegut",
-      "description": "Kurt Vonnegut **",
-      "totalWords": 53848,
-      "totalPages": 54,
-      "totalChapters": 12
-    },
-    {
-      "id": "the-alignment-problem",
-      "title": "The Alignment Problem",
-      "author": "Brian Christian",
-      "description": "A jaw-dropping exploration of everything that goes wrong when we build AI systems&#8212;and the movement to fix them. Today's \"machine-learning\" systems, trained by data, are so effective that we've invited them to see and hear for us&#8212;and to make decisions on our behalf. But alarm bells are ringing. Systems cull r&#233;sum&#233;s until, years later, we discover that they have inherent gender biases. Algorithms decide bail and parole&#8212;and appear to assess black and white defendants dif",
-      "totalWords": 167064,
-      "totalPages": 168,
-      "totalChapters": 21
-    },
-    {
-      "id": "the-body-keeps-the-score",
-      "title": "The Body Keeps the Score",
-      "author": "Bessel van der Kolk MD",
-      "description": "A pioneering researcher and one of the world's foremost experts on traumatic stress offers a bold new paradigm for healing Trauma is a fact of life. One in five Americans has been molested; one in four grew up with alcoholics; one in three couples have engaged in physical violence; veterans and their families deal with the painful aftermath of combat. Such experiences inevitably leave traces on minds, emotions, and even on biology. Sadly, trauma sufferers frequently pass on their stress to their",
-      "totalWords": 174722,
-      "totalPages": 175,
+      "id": "senseless",
+      "title": "Senseless",
+      "author": "Ronald Malfi",
+      "description": "A page-turning, supernaturally-tinged LA puzzle-box thriller &ndash; Zodiac with teeth, from the Bram Stoker Award-nominated and bestselling author of Come with Me. Perfect for fans of Riley Sager and Lauren Beukes. What do you see...? When the mutilated body of a young woman is discovered in the desert on the outskirts of Los Angeles, the detective assigned to the case can't deny the similarities between this murder and one that occurred a year prior. Media outlets are quick to surmise this is ",
+      "totalWords": 117345,
+      "totalPages": 118,
       "totalChapters": 31
     },
     {
-      "id": "the-book-of-disquiet-penguin-classics",
-      "title": "The Book of Disquiet (Penguin Classics)",
-      "author": "Pessoa, Fernando",
-      "description": "",
-      "totalWords": 183212,
-      "totalPages": 184,
-      "totalChapters": 37
+      "id": "the-burning-god",
+      "title": "The Burning God",
+      "author": "R. F. Kuang",
+      "description": "The exciting end to The Poppy War trilogy, R. F. Kuang's acclaimed, award-winning epic fantasy that combines the history of twentieth-century China with a gripping world of gods and monsters, to devastating, enthralling effect. After saving her nation of Nikan from foreign invaders and battling the evil Empress Su Daji in a brutal civil war, Fang Runin was betrayed by allies and left for dead. Despite her losses, Rin hasn't given up on those for whom she has sacrificed so much&#8212;the people o",
+      "totalWords": 189845,
+      "totalPages": 190,
+      "totalChapters": 42
+    },
+    {
+      "id": "the-dragon-republic",
+      "title": "The Dragon Republic",
+      "author": "R. F. Kuang",
+      "description": "In the aftermath of the Third Poppy War, shaman and warrior Rin is on the run: haunted by the atrocity she committed to end the war, addicted to opium, and hiding from the murderous commands of her vengeful god, the fiery Phoenix. Her only reason for living is to get revenge on the traitorous Empress who sold out Nikan to their enemies. With no other options, Rin joins forces with the powerful Dragon Warlord, who has a plan to conquer Nikan, unseat the Empress, and create a new Republic. Rin thr",
+      "totalWords": 189891,
+      "totalPages": 190,
+      "totalChapters": 44
     },
     {
       "id": "the-emperor-s-soul",
@@ -154,76 +109,13 @@
       "totalChapters": 22
     },
     {
-      "id": "the-essence-of-chaos-the-jessie-and-john-danz-lecture",
-      "title": "The Essence of Chaos (The Jessie and John Danz Lecture",
-      "author": "Edward N. Lorenz",
-      "description": "",
-      "totalWords": 69901,
-      "totalPages": 70,
-      "totalChapters": 14
-    },
-    {
-      "id": "the-hidden-life-of-trees",
-      "title": "The Hidden Life of Trees",
-      "author": "Peter Wohlleben",
-      "description": "",
-      "totalWords": 72059,
-      "totalPages": 73,
-      "totalChapters": 46
-    },
-    {
-      "id": "the-hidden-life-of-trees-1-mysteries-of-nature",
-      "title": "The Hidden Life of Trees_ 1 (Mysteries of Nature)",
-      "author": "Peter Wohlleben",
-      "description": "",
-      "totalWords": 72116,
-      "totalPages": 73,
-      "totalChapters": 15
-    },
-    {
-      "id": "the-hour-of-the-star",
-      "title": "The Hour of the Star",
-      "author": "Clarice Lispector",
-      "description": "",
-      "totalWords": 28856,
-      "totalPages": 29,
-      "totalChapters": 6
-    },
-    {
-      "id": "the-left-hand-of-darkness",
-      "title": "The Left Hand Of Darkness",
-      "author": "Ursula K. Le Guin",
-      "description": "",
-      "totalWords": 97005,
-      "totalPages": 98,
-      "totalChapters": 20
-    },
-    {
-      "id": "the-liminal-odyssey-the-alchemical-power-of-the-spaces-in-between",
-      "title": "The Liminal Odyssey: The Alchemical Power of the Spaces In-Between",
-      "author": "Sande Hart",
-      "description": "The word liminal means “threshold,” the space in-between crisis and action, dilemma and choice, opportunity and action. A liminal space is any threshold, including this evolutionary growth spurt we are amid right now; between here and the unknown place that is calling us. This liminal space is our moment of choice, and it is our responsibility and our privilege to question assumptions, heal the wounds that no longer serve us, discover our planetary assignment, show up in our most authentic geniu",
-      "totalWords": 55080,
-      "totalPages": 56,
-      "totalChapters": 24
-    },
-    {
-      "id": "the-snow-queen",
-      "title": "The Snow Queen",
-      "author": "Joan D. Vinge",
-      "description": "",
-      "totalWords": 185942,
-      "totalPages": 186,
-      "totalChapters": 61
-    },
-    {
-      "id": "the-society-of-the-spectacle",
-      "title": "The Society of the Spectacle",
-      "author": "Guy Debord",
-      "description": "'One should bear in mind when reading this book that it was written with the deliberate intention of doing harm to spectacular society' --Guy Debord. Originally published in France in 1968 The Society of the Spectacle is a brilliantly lucid analysis of the forms of social control and domination under modern capitalism. Since its publication it has had an enormous underground influence both on active revolutionaries and on radical cultural and political theory. Prescient in its condemnation of th",
-      "totalWords": 31105,
-      "totalPages": 32,
-      "totalChapters": 12
+      "id": "the-poppy-war",
+      "title": "The Poppy War",
+      "author": "R. F. Kuang",
+      "description": "\"I have no doubt this will end up being the best fantasy debut of the year [...] I have absolutely no doubt that [Kuang's] name will be up there with the likes of Robin Hobb and N.K. Jemisin.\" &#8212; Booknest A brilliantly imaginative talent makes her exciting debut with this epic historical military fantasy, inspired by the bloody history of China's twentieth century and filled with treachery and magic, in the tradition of Ken Liu's Grace of Kings and N.K. Jemisin's Inheritance Trilogy. When R",
+      "totalWords": 160547,
+      "totalPages": 161,
+      "totalChapters": 31
     },
     {
       "id": "the-song-of-achilles-a-novel",
@@ -235,24 +127,6 @@
       "totalChapters": 21
     },
     {
-      "id": "the-summer-queen",
-      "title": "The Summer Queen",
-      "author": "Joan D. Vinge",
-      "description": "Sequel To The Hugo Award-Winning Bestseller The Snow Queen The Summer Queenis the extraordinary sequel to one of science fiction's most celebrated novels, The Snow Queen. Set in a fully realized universe of wonders, this spectacular space epic, itself a finalist for the Hugo Award, is one of the most remarkable novels in the field. A story that spans millennia, from the ruins of an ancient interstellar empire to the planets of the Hegemony that rules human space, The Summer Queenis the multi-lay",
-      "totalWords": 378316,
-      "totalPages": 379,
-      "totalChapters": 85
-    },
-    {
-      "id": "the-tao-of-physics",
-      "title": "The Tao of Physics",
-      "author": "Simon Plouffe",
-      "description": "",
-      "totalWords": 92065,
-      "totalPages": 93,
-      "totalChapters": 19
-    },
-    {
       "id": "the-three-body-problem",
       "title": "The Three-Body Problem",
       "author": "Cixin Liu",
@@ -262,40 +136,13 @@
       "totalChapters": 64
     },
     {
-      "id": "the-unbearable-lightness-of-being",
-      "title": "The Unbearable Lightness of Being",
-      "author": "MILAN KUNDERA",
-      "description": "",
-      "totalWords": 85272,
-      "totalPages": 86,
-      "totalChapters": 18
-    },
-    {
-      "id": "the-art-of-gathering-how-we-meet-and-why-it-matters",
-      "title": "The Art of Gathering: How We Meet and Why It Matters",
-      "author": "Priya Parker",
-      "description": "",
-      "totalWords": 89366,
-      "totalPages": 90,
-      "totalChapters": 18
-    },
-    {
-      "id": "tomorrow-and-tomorrow-and-tomorrow-a-novel",
-      "title": "Tomorrow, and Tomorrow, and Tomorrow_ A novel",
-      "author": "Gabrielle Zevin",
-      "description": "",
-      "totalWords": 134403,
-      "totalPages": 135,
-      "totalChapters": 27
-    },
-    {
-      "id": "twenty-love-poems-and-a-song-of-despair",
-      "title": "Twenty Love Poems and a Song of Despair",
-      "author": "Pablo Neruda",
-      "description": "Published in 1924, when Pablo Neruda was only twenty years old, this striking collection of love poems has proven to be the Nobel Laureate's most popular work. The sensual imagery and heartbreaking verse have inspired lovers and lovers of poetry for nearly a century. Translated by W. S. Merwin Introduction by Cristina García Contents I. Body of a Woman II. The Light Wraps You III. Ah Vastness of Pines IV. The Morning Is Full V. So that You Will Hear Me VI. I Remember You As You Were VII. Leaning",
-      "totalWords": 0,
-      "totalPages": 0,
-      "totalChapters": 0
+      "id": "the-venue",
+      "title": "The Venue",
+      "author": "T.J. Payne",
+      "description": "Amy didn't expect to be invited to Caleb's wedding. And now, she doesn't expect to get out alive. You’re invited! Your childhood friend is having a wedding. It'll be held in a secluded resort, high up in the Alps. All expenses paid. All travel arrangements provided. The pinnacle of elegance and luxury. He'd love for you to come celebrate with him. Feel free to bring your husband or boyfriend or whoever you're seeing these days. What’s that? You had a falling out with the groom? You never expecte",
+      "totalWords": 74458,
+      "totalPages": 75,
+      "totalChapters": 41
     },
     {
       "id": "a-court-of-mist-and-fury",
@@ -325,5 +172,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-11-24T06:04:08.318Z"
+  "updatedAt": "2026-11-24T07:08:37.234Z"
 }
